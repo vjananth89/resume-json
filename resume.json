@@ -1,0 +1,244 @@
+{
+  "selectedTemplate": 1,
+  "headings": {
+    "work": "Experience",
+    "education": "Education",
+    "skills": "Skills",
+    "projects": "Projects",
+    "awards": "Open Source Contributions"
+  },
+  "basics": {
+    "name": "Vijay Pandian",
+    "email": "ananth.vijay@gmail.com",
+    "phone": "(424)-236-9486",
+    "website": "https://www.linkedin.com/in/ananth18189/",
+    "location": {
+      "address": "Albany, NY"
+    }
+  },
+  "education": [
+    {
+      "institution": "University at Albany, State University of New York",
+      "location": "Albany, NY",
+      "area": "Computer Science",
+      "studyType": "MS",
+      "endDate": "May 2015",
+      "gpa": "",
+      "startDate": "Jan 2013"
+    },
+    {
+      "institution": "SRM University",
+      "location": "Chennai, India",
+      "studyType": "BTech",
+      "area": "Computer Science and Engineering",
+      "startDate": "Aug 2006",
+      "endDate": "May 2010"
+    }
+  ],
+  "work": [
+    {
+      "company": "CommerceHub Inc",
+      "location": "Albany, NY",
+      "position": "Software Operations Engineer",
+      "website": "",
+      "startDate": "Aug 2015",
+      "endDate": "Present",
+      "highlights": [
+        "Built CI/CD pipelines for deployments in production using Jenkins and Docker. ",
+        "Automated, managed and scaled production configurations using Chef and Ansible. ",
+        "Developed PowerShell/Azure CLI scripts for managing CommerceHub's infrastructure.",
+        "Participated in an on-call PagerDuty rotation to respond to critical incidents.",
+        "Improved alerting and monitoring using Graphite/Grafana/Sensu/Zabbix and Azure Monitor.",
+        "Planned the growth of CommerceHub's infrastructure.",
+        "Resolved production issues across services and levels of CommerceHub's stack.",
+        "Mentored engineers to grow and succeed in a thriving fast-paced production team.",
+        "Patching and rolling out new updates to all Windows and Linux servers in the ecosystem.",
+        "Administering and managing the Windows/Linux/Docker ecosystem using Chef/Ansible.",
+        "Developed automation jobs in Jenkins to stage artifacts from Artifactory and S3.",
+        "Ensured that pipelines and workflows were automated in compliance with SOX controls.",
+        "Developing and managing cookbooks, environments, and recipes in Chef.",
+        "Crafted scripts in Shell, Ruby, PowerShell to automate production deployments.",
+        "Proposed, planned, developed automation projects in Jenkins, Docker, Linux and Shell.",
+        "Programmatically managed alerting channels for PagerDuty API for applications.",
+        "Managed pipelines in GitHub/GitLab infrastructure for test and production environments.",
+        "Mitigated incidents and provided root-cause analysis for productions applications.",
+        "Implemented alerts for applications deployed in Linux platforms using Grafana/PagerDuty/Sensu."
+      ]
+    },
+    {
+      "highlights": [
+        "Built efficient and critical web applications hosted in AWS that were utilized by all the 64 campuses in the State University of New York system. ",
+        "Solved key enterprise challenges and help the Research Foundation adopt the latest software development practices and AWS technologies across all their current projects.",
+        "Built applications using C#, JavaScript, Oracle and deployed them in AWS EC2 hosts.",
+        "Managed S3 buckets and implemented permission levels using AWS IAM console for SUNY RF's internal portal.",
+        "Designed and deployed new SharePoint components using AWS EC2, Cloudformation, and S3.",
+        "Participated in design reviews for the Research Foundation's new internal portal application."
+      ],
+      "company": "The Research Foundation for the State University of New York",
+      "position": "Web Development Consultant",
+      "location": "Albany, NY",
+      "startDate": "Feb 2015",
+      "endDate": "Aug 2015"
+    },
+    {
+      "highlights": [
+        "Designed and developed components for several projects, primarily with HTML/CSS, JavaScript, jQuery, Oracle and the T4 platform. ",
+        "Built the information architecture and migrated documents from the old site to the new T4 Content Management system  and Amazon S3.",
+        "Worked on the full development process, from translating early concepts into practical requirements, to designing wireframes and mockups, to implementing complete web development practices.",
+        "Developed, tested and implemented JavaScript validations for forms in all the sites.",
+        "Built the information architecture from the ground up and migrated content from the old site to the new T4 Content Management system and Amazon S3."
+      ],
+      "company": "The Research Foundation for the State University of New York",
+      "position": "Web Redesign Intern",
+      "location": "Albany, NY",
+      "startDate": "Jun 2014",
+      "endDate": "Nov 2014"
+    },
+    {
+      "highlights": [
+        " Built new components and enhancements for Java-based web applications in an agile environment.",
+        "Independently managed all applications in Java, Oracle, and Cognos pertaining to the AIG BI team’s incident management standards and procedures.",
+        "Improved the Customer Satisfaction Index of the team from 91% to 100% for the first time since the project's inception.",
+        "Worked on the full development process, from translating early concepts into practical requirements, to designing wireframes and mockups, to implementing complete web development practices.",
+        "Worked on the full development process, from translating early concepts into practical requirements, to designing wireframes and mockups, to implementing complete web development practices.",
+        "Worked on the full development process, from translating early concepts into practical requirements, to designing wireframes and mockups, to implementing complete web development practices."
+      ],
+      "company": "Tata Consultancy Services / AIG Inc.",
+      "position": "Systems Engineer",
+      "location": "Chennai, TN, India",
+      "startDate": "Sep 2010",
+      "endDate": "Nov 2012"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "PowerShell",
+        "Bash",
+        "Shell",
+        "Batch"
+      ],
+      "name": "Scripting"
+    },
+    {
+      "keywords": [
+        "VMWare",
+        "Azure",
+        "Amazon Web Services",
+        "Docker"
+      ],
+      "name": "Platform"
+    },
+    {
+      "keywords": [
+        "Microsoft SQL Server",
+        "MySQL",
+        "Postgres",
+        "MongoDB"
+      ],
+      "name": "Databases"
+    },
+    {
+      "keywords": [
+        "Jenkins",
+        "Bamboo",
+        "GitLab",
+        "GitHub Enterprise"
+      ],
+      "name": "CI/CD"
+    },
+    {
+      "keywords": [
+        "Java",
+        "Ruby",
+        "HTML/CSS",
+        "JavaScript"
+      ],
+      "name": "Languages"
+    },
+    {
+      "keywords": [
+        "Grafana",
+        "Sensu",
+        "PagerDuty",
+        "Consul",
+        "Graphite",
+        "Kibana",
+        "Zabbix"
+      ],
+      "name": "Monitoring"
+    },
+    {
+      "keywords": [
+        "Windows ",
+        "Linux (Ubuntu and RHEL)",
+        "Chef",
+        "Ansible"
+      ],
+      "name": "Server Administration"
+    }
+  ],
+  "projects": [
+    {
+      "name": "introspECHS",
+      "keywords": [
+        "Java",
+        "AWS"
+      ],
+      "url": "Link to Project",
+      "description": "Description for project goes here."
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Project 2",
+      "description": "Amazon EC2 uses public-key cryptography to encrypt and decrypt login information. To be able to log into your instances, you must create a key pair."
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Project 3",
+      "description": "Amazon EC2 uses public-key cryptography to encrypt and decrypt login information. To be able to log into your instances, you must create a key pair."
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "name": "Project 4",
+      "description": "Amazon EC2 uses public-key cryptography to encrypt and decrypt login information. To be able to log into your instances, you must create a key pair."
+    },
+    {
+      "keywords": [
+        ""
+      ],
+      "url": "Project 5",
+      "name": "PRoject 5 ",
+      "description": "Amazon EC2 uses public-key cryptography to encrypt and decrypt login information. To be able to log into your instances, you must create a key pair."
+    }
+  ],
+  "awards": [
+    {
+      "title": "StackOverflow (http://stackoverflow.com/users/3438582/vjpandian)",
+      "awarder": "",
+      "summary": "Solutions contributed on the website have reached ~527k developers",
+      "date": "March 2015 - Present"
+    },
+    {
+      "title": "GitHub",
+      "date": "Jan 2013 - May 2015",
+      "summary": "Collaborated and managed projects with Graduate students at SUNY Albany"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "skills",
+    "education",
+    "projects",
+    "awards"
+  ]
+}
