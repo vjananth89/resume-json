@@ -72,7 +72,7 @@
         "Built applications using C#, JavaScript, Oracle and deployed them in AWS EC2 hosts.",
         "Managed S3 buckets and implemented permission levels using AWS IAM console for SUNY RF's internal portal.",
         "Designed and deployed new SharePoint components using AWS EC2, Cloudformation, and S3.",
-        "Participated in design reviews for the Research Foundation's new internal portal application."
+        "Participated in architectural and design reviews for the Research Foundation's new internal portal application."
       ],
       "company": "The Research Foundation for the State University of New York",
       "position": "Web Development Consultant",
@@ -82,7 +82,7 @@
     },
     {
       "highlights": [
-        "Designed and developed components for several projects, primarily with HTML/CSS, JavaScript, jQuery, Oracle and the T4 platform. ",
+        "Designed and developed components for several projects, primarily with HTML/CSS, Bootstrap Framework, JavaScript, jQuery, Oracle and the T4 platform. ",
         "Built the information architecture and migrated documents from the old site to the new T4 Content Management system  and Amazon S3.",
         "Worked on the full development process, from translating early concepts into practical requirements, to designing wireframes and mockups, to implementing complete web development practices.",
         "Developed, tested and implemented JavaScript validations for forms in all the sites.",
@@ -96,12 +96,12 @@
     },
     {
       "highlights": [
-        " Built new components and enhancements for Java-based web applications in an agile environment.",
+        "Built new components and enhancements for Java-based web applications in an agile environment.",
         "Independently managed all applications in Java, Oracle, and Cognos pertaining to the AIG BI team’s incident management standards and procedures.",
         "Improved the Customer Satisfaction Index of the team from 91% to 100% for the first time since the project's inception.",
-        "Worked on the full development process, from translating early concepts into practical requirements, to designing wireframes and mockups, to implementing complete web development practices.",
-        "Worked on the full development process, from translating early concepts into practical requirements, to designing wireframes and mockups, to implementing complete web development practices.",
-        "Worked on the full development process, from translating early concepts into practical requirements, to designing wireframes and mockups, to implementing complete web development practices."
+        "Developed complex SQL queries in Oracle 11g to generate reports for the AIG Underwriting Team.",
+        "Deployed J2EE applications and managed configurations of Underwriting applications.",
+        "Implemented scheuled jobs and developed bash scripts for automating the delivery of KPI reports."
       ],
       "company": "Tata Consultancy Services / AIG Inc.",
       "position": "Systems Engineer",
