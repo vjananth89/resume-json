@@ -43,27 +43,27 @@
       "website": "",
       "startDate": "Aug 2015",
       "endDate": "Present",
-      "highlights": [
-        "Built CI/CD pipelines for deployments in production using Jenkins and Docker. ",
-        "Automated, managed and scaled production configurations using Chef and Ansible. ",
-        "Developed PowerShell/Azure CLI scripts for managing CommerceHub's infrastructure.",
-        "Participated in an on-call PagerDuty rotation to respond to critical incidents.",
-        "Improved alerting and monitoring using Graphite/Grafana/Sensu/Zabbix and Azure Monitor.",
-        "Planned the growth of CommerceHub's infrastructure.",
-        "Resolved production issues across services and levels of CommerceHub's stack.",
-        "Mentored engineers to grow and succeed in a thriving fast-paced production team.",
-        "Patching and rolling out new updates to all Windows and Linux servers in the ecosystem.",
-        "Administering and managing the Windows/Linux/Docker ecosystem using Chef/Ansible.",
-        "Developed automation jobs in Jenkins to stage artifacts from Artifactory and S3.",
-        "Ensured that pipelines and workflows were automated in compliance with SOX controls.",
-        "Developing and managing cookbooks, environments, and recipes in Chef.",
-        "Crafted scripts in Shell, Ruby, PowerShell to automate production deployments.",
-        "Proposed, planned, developed automation projects in Jenkins, Docker, Linux and Shell.",
-        "Programmatically managed alerting channels for PagerDuty API for applications.",
-        "Managed pipelines in GitHub/GitLab infrastructure for test and production environments.",
-        "Mitigated incidents and provided root-cause analysis for productions applications.",
-        "Implemented alerts for applications deployed in Linux platforms using Grafana/PagerDuty/Sensu."
-      ]
+"highlights": [
+   "Built CI/CD pipelines for deployments in production using Jenkins and Docker. ", 
+   "Automated, managed and scaled production configurations using Chef and Ansible. ", 
+   "Administered and managed the Windows/Linux environments in the production infrastructure.", 
+   "Developed PowerShell/Azure CLI/Bash scripts for managing CommerceHub's infrastructure.", 
+   "Participated in an on-call PagerDuty rotation to respond to critical incidents.",   
+   "Improved alerting and monitoring using Graphite/Grafana/Sensu/Zabbix and Azure Monitor.",  
+   "Developed internal self-service web applications using Dropwizard/Groovy and Chef to complete repeated tasks quickly.",  
+   "Mentored engineers to grow and succeed in a thriving fast-paced production team.", 
+   "Patching and rolling out new updates to all Windows and Linux servers in the ecosystem.", 
+   "Developed automation jobs in Jenkins to stage artifacts from Artifactory and S3.",  
+   "Ensured that pipelines and workflows were automated in compliance with SOX controls.",  
+   "Built dashboards using Smashing frameworks, Kibana, Grafana to display health and statistic of applications.", 
+   "Crafted scripts in Shell, Ruby, PowerShell to automate production deployments.",  
+   "Proposed, planned, developed automation projects in Jenkins, Docker, Linux and Shell.", 
+   "Planned the growth of CommerceHub's infrastructure.",                               
+   "Programmatically managed alerting channels for PagerDuty API for applications.",   
+   "Managed GitLab pipelines for test and production environments.", 
+   "Mitigated incidents and provided root-cause analysis for productions applications.",   
+   "Developed and deploying MS SQL Server stored procedures in test and production environments."
+ ]
     },
     {
       "highlights": [
@@ -72,7 +72,7 @@
         "Built applications using C#, JavaScript, Oracle and deployed them in AWS EC2 hosts.",
         "Managed S3 buckets and implemented permission levels using AWS IAM console for SUNY RF's internal portal.",
         "Designed and deployed new SharePoint components using AWS EC2, Cloudformation, and S3.",
-        "Participated in design reviews for the Research Foundation's new internal portal application."
+        "Participated in architectural and design reviews for the Research Foundation's new internal portal application."
       ],
       "company": "The Research Foundation for the State University of New York",
       "position": "Web Development Consultant",
@@ -82,7 +82,7 @@
     },
     {
       "highlights": [
-        "Designed and developed components for several projects, primarily with HTML/CSS, JavaScript, jQuery, Oracle and the T4 platform. ",
+        "Designed and developed components for several projects, primarily with HTML/CSS, Bootstrap Framework, JavaScript, jQuery, Oracle and the T4 platform. ",
         "Built the information architecture and migrated documents from the old site to the new T4 Content Management system  and Amazon S3.",
         "Worked on the full development process, from translating early concepts into practical requirements, to designing wireframes and mockups, to implementing complete web development practices.",
         "Developed, tested and implemented JavaScript validations for forms in all the sites.",
@@ -96,12 +96,12 @@
     },
     {
       "highlights": [
-        " Built new components and enhancements for Java-based web applications in an agile environment.",
+        "Built new components and enhancements for Java-based web applications in an agile environment.",
         "Independently managed all applications in Java, Oracle, and Cognos pertaining to the AIG BI team’s incident management standards and procedures.",
         "Improved the Customer Satisfaction Index of the team from 91% to 100% for the first time since the project's inception.",
-        "Worked on the full development process, from translating early concepts into practical requirements, to designing wireframes and mockups, to implementing complete web development practices.",
-        "Worked on the full development process, from translating early concepts into practical requirements, to designing wireframes and mockups, to implementing complete web development practices.",
-        "Worked on the full development process, from translating early concepts into practical requirements, to designing wireframes and mockups, to implementing complete web development practices."
+        "Developed complex SQL queries in Oracle 11g to generate reports for the AIG Underwriting Team.",
+        "Deployed J2EE applications and managed configurations of Underwriting applications.",
+        "Implemented scheuled jobs and developed bash scripts for automating the delivery of KPI reports."
       ],
       "company": "Tata Consultancy Services / AIG Inc.",
       "position": "Systems Engineer",
