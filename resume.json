@@ -193,7 +193,7 @@
         "AWS"
       ],
       "url": "Link to Project",
-      "description": "Description for project goes here."
+      "description": "A centralized serverless service health dashboard for all CommerceHub services in AWS (including both EC2 and ECS) which contains information such as environment, health, count, region, availability, ip, logs, metrics, and deployment history."
     },
     {
       "keywords": [
