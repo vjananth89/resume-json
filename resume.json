@@ -197,32 +197,45 @@
     },
     {
       "keywords": [
-        ""
+        "Java",
+        "Spring",
+        "AWS (RDS, EC2, S3),
+        "Tomcat",
+        "Stripe API"
       ],
-      "name": "Project 2",
-      "description": "Amazon EC2 uses public-key cryptography to encrypt and decrypt login information. To be able to log into your instances, you must create a key pair."
+      "name": "UAlbany Marketplace",
+      "description": "An online shopping website hosted in AWS built along with other UAlbany graduate students."
     },
     {
       "keywords": [
-        ""
+        "Elasticsearch",
+        "Kibana",
+        "Twitter API"
       ],
-      "name": "Project 3",
-      "description": "Amazon EC2 uses public-key cryptography to encrypt and decrypt login information. To be able to log into your instances, you must create a key pair."
+      "name": "Twitter Data Visualization",
+      "description": "A visualization of Twitter data in real-time using Twitter Firehose API and Kibana."
     },
     {
       "keywords": [
-        ""
+        "Java",
+        "GitHub Enterprise",
+        "MySQL"
       ],
-      "name": "Project 4",
-      "description": "Amazon EC2 uses public-key cryptography to encrypt and decrypt login information. To be able to log into your instances, you must create a key pair."
+      "name": "ResLife",
+      "description": "A web application for Resident Assistants to manage their shifts at the University at Albany."
     },
     {
       "keywords": [
-        ""
+        "Java",
+        "JSP",
+        "JavaScript",
+        "HTML/CSS",
+        "Bootstrap"
+        
       ],
       "url": "Project 5",
-      "name": "PRoject 5 ",
-      "description": "Amazon EC2 uses public-key cryptography to encrypt and decrypt login information. To be able to log into your instances, you must create a key pair."
+      "name": "Message Authentication in Computationally Constrained Environments",
+      "description": "An efficient implementation of hash message authentication codes (HMAC) using stream cipher."
     }
   ],
   "awards": [
