@@ -183,6 +183,14 @@
         "Ansible"
       ],
       "name": "Server Administration"
+    },
+        {
+      "keywords": [
+        "Hashicorp Packer",
+        "Azure ARM",
+        "AWS CloudFormation
+      ],
+      "name": "Infrastructure Templating"
     }
   ],
   "projects": [
