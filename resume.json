@@ -188,7 +188,7 @@
       "keywords": [
         "Hashicorp Packer",
         "Azure ARM",
-        "AWS CloudFormation
+        "AWS CloudFormation"
       ],
       "name": "Infrastructure Templating"
     }
@@ -207,7 +207,7 @@
       "keywords": [
         "Java",
         "Spring",
-        "AWS (RDS, EC2, S3),
+        "AWS (RDS, EC2, S3)",
         "Tomcat",
         "Stripe API"
       ],
@@ -239,7 +239,7 @@
         "JavaScript",
         "HTML/CSS",
         "Bootstrap"
-        
+
       ],
       "url": "Project 5",
       "name": "Message Authentication in Computationally Constrained Environments",
